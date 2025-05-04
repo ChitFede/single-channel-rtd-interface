@@ -34,7 +34,6 @@
 #define RREF 400.0f
 #define RTD_A 3.9083e-3f
 #define RTD_B -5.775e-7f
-// Note: C coefficient (-4.183e-12) needed for high accuracy below 0°C
 
 typedef enum {
     RTD_TYPE_PT100,
